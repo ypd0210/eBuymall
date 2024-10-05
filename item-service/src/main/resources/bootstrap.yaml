@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: item-service # 服务名称
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      server-addr: 122.51.89.85:8848 # nacos地址
+      config:
+        file-extension: yaml # 文件后缀名
+        shared-configs:  # 共享配置
+          - dataId: sharing-jdbc.yaml # 共享mybatis配置
+          - dataId: sharing-log.yaml # 共享日志配置
+          - dataId: sharing-swagger.yaml # 共享日志配置

@@ -1,0 +1,12 @@
+server:
+  port: 10020
+feign:
+  okhttp:
+    enabled: true # 开启OKHttp功能
+mall:
+  db:
+    database: trade-service
+  swagger:
+    title: 易购商城订单服务接口文档
+    desc: 易购商城接口文档
+    package: com.study.order.controller

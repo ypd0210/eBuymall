@@ -1,0 +1,12 @@
+server:
+  port: 9090
+feign:
+  okhttp:
+    enabled: true # 开启OKHttp功能
+mall:
+  db:
+    database: cart-service
+  swagger:
+    title: 易购商城购物车服务接口文档
+    desc: 易购商城接口文档
+    package: com.study.user.controller

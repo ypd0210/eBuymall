@@ -13,9 +13,9 @@
         <module name="eBuy-api" />
         <module name="hm-common" />
         <module name="item-service" />
-        <module name="eBuy-getway" />
         <module name="user-service" />
         <module name="order-service" />
+        <module name="eBuy-gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,7 +29,7 @@
       <module name="document-service" options="-parameters" />
       <module name="eBuy-api" options="-parameters" />
       <module name="eBuy-common" options="-parameters" />
-      <module name="eBuy-getway" options="-parameters" />
+      <module name="eBuy-gateway" options="-parameters" />
       <module name="hm-common" options="-parameters" />
       <module name="hm-service" options="-parameters" />
       <module name="item-service" options="-parameters" />

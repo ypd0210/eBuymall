@@ -17,7 +17,7 @@
         <module>user-service</module>
         <module>order-service</module>
         <module>pay-service</module>
-        <module>eBuy-getway</module>
+        <module>eBuy-gateway</module>
     </modules>
 
     <parent>

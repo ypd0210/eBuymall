@@ -1,0 +1,8 @@
+com\study\gateway\routers\DynamicRouterLoader$1.class
+com\study\gateway\routers\DynamicRouterLoader.class
+com\study\gateway\GatewayApplication.class
+com\study\gateway\config\JwtProperties.class
+com\study\gateway\config\SecurityConfig.class
+com\study\gateway\util\JwtTool.class
+com\study\gateway\filters\AuthGlobalFilter.class
+com\study\gateway\config\AuthProperties.class

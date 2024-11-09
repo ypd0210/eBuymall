@@ -1,8 +1,8 @@
-E:\Mall\eBuymall\item-service\src\main\java\com\study\item\mapper\ItemMapper.java
-E:\Mall\eBuymall\item-service\src\main\java\com\study\item\controller\SearchController.java
-E:\Mall\eBuymall\item-service\src\main\java\com\study\item\service\IItemService.java
-E:\Mall\eBuymall\item-service\src\main\java\com\study\item\controller\ItemController.java
-E:\Mall\eBuymall\item-service\src\main\java\com\study\item\domain\po\Item.java
-E:\Mall\eBuymall\item-service\src\main\java\com\study\item\service\impl\ItemServiceImpl.java
-E:\Mall\eBuymall\item-service\src\main\java\com\study\item\domain\query\ItemPageQuery.java
-E:\Mall\eBuymall\item-service\src\main\java\com\study\item\ItemApplication.java
+E:\JavaProject\Mall\eBuymall\item-service\src\main\java\com\study\item\ItemApplication.java
+E:\JavaProject\Mall\eBuymall\item-service\src\main\java\com\study\item\controller\ItemController.java
+E:\JavaProject\Mall\eBuymall\item-service\src\main\java\com\study\item\domain\po\Item.java
+E:\JavaProject\Mall\eBuymall\item-service\src\main\java\com\study\item\controller\SearchController.java
+E:\JavaProject\Mall\eBuymall\item-service\src\main\java\com\study\item\domain\query\ItemPageQuery.java
+E:\JavaProject\Mall\eBuymall\item-service\src\main\java\com\study\item\service\IItemService.java
+E:\JavaProject\Mall\eBuymall\item-service\src\main\java\com\study\item\service\impl\ItemServiceImpl.java
+E:\JavaProject\Mall\eBuymall\item-service\src\main\java\com\study\item\mapper\ItemMapper.java
